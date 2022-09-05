@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/etch/passwd'
+cat /etc/passwd
