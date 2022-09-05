@@ -1,1 +1,1 @@
-display two files
+last lines of files
