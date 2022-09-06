@@ -1,1 +1,1 @@
-script that prints unique words on list
+script that displays root from file
