@@ -1,1 +1,1 @@
-script that displays lines in a file without bin
+script that displays lines starting with letters
