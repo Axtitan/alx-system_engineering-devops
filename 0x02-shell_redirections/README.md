@@ -1,1 +1,1 @@
-scripts that delete .js files
+scripts that counts number of directories amd subdirectories in current directory
