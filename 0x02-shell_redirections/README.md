@@ -1,1 +1,1 @@
-scripts that reverses its input
+scripts that displays all users and their home directories, sorted by users
