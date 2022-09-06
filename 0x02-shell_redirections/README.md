@@ -1,1 +1,1 @@
-duplicate last line
+scripts that delete .js files
