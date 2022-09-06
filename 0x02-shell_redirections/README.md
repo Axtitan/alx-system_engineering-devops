@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” and 3 lines after them in a file 
+script that displays lines in a file without bin
