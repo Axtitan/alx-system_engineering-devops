@@ -1,1 +1,1 @@
-script that displays 10 newest files
+script that prints unique words on list
