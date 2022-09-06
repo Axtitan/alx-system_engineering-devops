@@ -1,1 +1,1 @@
-script that displays root from file
+script that counts no. of lines that contain bin
