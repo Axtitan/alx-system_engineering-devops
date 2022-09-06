@@ -1,1 +1,1 @@
-script that displays lines starting with letters
+display lines that begin with letters
