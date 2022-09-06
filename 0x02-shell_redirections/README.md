@@ -1,1 +1,1 @@
-script that counts no. of lines that contain bin
+Display lines containing the pattern “root” and 3 lines after them in a file 
